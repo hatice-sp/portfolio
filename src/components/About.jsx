@@ -8,19 +8,29 @@ import endpoints from '../constants/endpoints';
 import FallbackSpinner from './FallbackSpinner';
 
 const styles = {
+  headerContainer: {
+    marginTop: '20px',
+    paddingTop: '10px',
+  },
   introTextContainer: {
-    margin: 10,
+    margin: 30,
     flexDirection: 'column',
     whiteSpace: 'pre-wrap',
     textAlign: 'left',
-    fontSize: '1.2em',
+    fontSize: '1.4em',
     fontWeight: 500,
+    fontFamily: 'Urbanist',
   },
   introImageContainer: {
     margin: 10,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+  },
+  image: {
+    width: '400px',
+    height: 'auto',
+    borderRadius: '200px',
   },
 };
 
@@ -56,7 +66,7 @@ function About(props) {
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
-                    <img src={data?.imageSource} alt="profile" />
+                    <img src={data?.imageSource} alt="profile" style={styles.image} />
                   </Col>
                 </Row>
               </Fade>

@@ -56,9 +56,9 @@ function Education(props) {
                 theme={{
                   primary: theme.accentColor,
                   secondary: theme.accentColor,
-                  cardBgColor: theme.chronoTheme.cardBgColor,
-                  cardForeColor: theme.chronoTheme.cardForeColor,
-                  titleColor: theme.chronoTheme.titleColor,
+                  cardBgColor: '#ffffff',
+                  cardForeColor: '#00000',
+                  titleColor: '#F2F9FF',
                 }}
               >
                 <div className="chrono-icons">
@@ -74,7 +74,7 @@ function Education(props) {
             </Container>
           </div>
         </Fade>
-      ) : <FallbackSpinner /> }
+      ) : <FallbackSpinner />}
     </>
   );
 }

@@ -1,33 +1,31 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Intern Developer",
+            "subtitle": "vMind Information Technologies",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Engineereda Jekyll-based static website on an Ubuntu Server within a virtualized environment. The process involved server provisioning, Jekyll installation, configuration, and website deployment."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "08/2023-09/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Intern Developer",
+            "subtitle": "Kalendar Software R&D Consulting Media Publishing Ltd.",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Developed a dynamic web application using the Python Django framework. The process included setting up the project environment, creating models for database management, building views and templates for frontend functionality, and implementing basic user authentication."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "08/2024 – 09/2024"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": " Intern Frontend Developer",
+            "subtitle": "Tein Technology Education Consulting Media Inc.",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Currently enhancing my skills through training in React Native, TypeScript, JavaScript, Node.js, HTML, and CSS, while actively contributing to the development of a mobile application as part of an internal company project."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "12/2024 – Present "
         }
     ]
 }

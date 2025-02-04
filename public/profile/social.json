@@ -1,16 +1,12 @@
 {
     "social": [
         {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "network": "linkedin",
+            "href": "https://www.linkedin.com/in/hatice-sar%C4%B1p%C4%B1nar-0621062a2/"
         },
         {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
+            "network": "github",
+            "href": "https://github.com/hatice-sp"
         }
     ]
 }

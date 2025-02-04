@@ -316,19 +316,13 @@ It has 2 keys, *logo* and *sections*.
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "August 2022 - July 2025",
+            "cardTitle": "B.Tech, Computer Engineering",
+            "cardSubtitle":"Düzce University, Düzce",
+            "cardDetailedText": "CGPA - 2.71",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }
-        },
-        {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
         }
     ]
 }

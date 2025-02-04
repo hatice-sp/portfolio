@@ -32,7 +32,7 @@ const InternalNavLink = styled(NavLink)`
     background-color: ${(props) => props.theme.accentColor};
   }
   &.navbar__link--active {
-    color: ${(props) => props.theme.navbarTheme.linkActiveColor};
+    color: ${(props) => props.theme.navbarTheme.linkActiveColor || 'red'};
   }
 `;
 
